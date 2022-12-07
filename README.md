@@ -18,6 +18,3 @@ Here is the repository structure:
     ├── exercises
     └── project
 ```
-
-
-somerhing 
